@@ -1,5 +1,5 @@
 # InfrastructureDataChallenge
-- インフラデータチャレンジ（IDC)に応募したAndroidアプリケーション公開にあたってのプライバシーポリシーです。
+- インフラデータチャレンジ（IDC)に応募したAndroidアプリケーション公開にあたってのプライバシーポリシー
 
 ## URL : https://atarm.github.io/InfrastructureDataChallenge/
 
